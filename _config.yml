@@ -1,0 +1,8 @@
+# GitHub Pages 전용. 이 폴더의 .md 를 HTML 로 내보낸다.
+#
+# **front matter 가 없는 .md 는 Jekyll 이 변환하지 않고 원문 그대로 낸다.**
+# 개인정보처리방침이 마크다운 기호 범벅으로 보이면 심사에서 곤란하다.
+# 그래서 방침 파일에 front matter 를 넣어 두었다.
+theme: jekyll-theme-minimal
+title: 칸칸
+description: 전국 시·군·구 229곳을 채워 나가는 국내 여행 기록 앱
