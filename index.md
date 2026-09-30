@@ -8,3 +8,4 @@ title: 칸칸
 
 - [개인정보처리방침](privacy-policy)
 - [이용약관](terms)
+- [저작권 정책](copyright-policy)
