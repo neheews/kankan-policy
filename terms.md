@@ -82,9 +82,9 @@ title: 칸칸 이용약관
 
 ### 4.4 저작권
 
-남이 올린 기록 아래의 **저작권 침해 신고**로 알려 주시면 저작권 정책
-(https://neheews.github.io/kankan-policy/copyright-policy)의 절차대로
-처리합니다. 정당한 신고로 두 번 이상 내용이 지워진 이용자의 계정은
+내 저작물이 허락 없이 올라와 있다면 **neheews@gmail.com** 으로 알려 주시면
+저작권 정책(https://neheews.github.io/kankan-policy/copyright-policy)의
+절차대로 처리합니다. 정당한 신고로 두 번 이상 내용이 지워진 이용자의 계정은
 해지합니다.
 
 ## 5. 익명 통계
